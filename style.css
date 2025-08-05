@@ -23,8 +23,8 @@ body {
 }
 
 .card {
-  width: 64px;
-  height: 89px;
+  width: 215px;
+  height: 320px;
   background-image: url("card-sheet.png");
   background-size: 2085px 2085px; /* size of the full sprite sheet */
   display: inline-block;
