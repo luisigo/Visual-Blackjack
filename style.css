@@ -26,7 +26,7 @@ body {
   width: 64px;
   height: 89px;
   background-image: url("card-sheet.png");
-  background-size: 832px 356px; /* size of the full sprite sheet */
+  background-size: 2085px 2085px; /* size of the full sprite sheet */
   display: inline-block;
   border-radius: 4px;
 }
